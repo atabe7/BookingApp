@@ -1,0 +1,29 @@
+[
+    {
+        "centerId": 1,
+        "centerName": "Hyllie Sportcenter",
+        "centerAddress": "Malmö",
+        "centerAge": "2016",
+        "description": "8 squash bannor",
+        "imageUrl": "./app/assets/images/squash_plan1.jpg",
+        "schemaUrl": ""
+    },
+    {
+        "centerId": 2,
+        "centerName": "The Club",
+        "centerAddress": "Malmö",
+        "centerAge": "1989",
+        "description": "7 squash bannor",
+        "imageUrl": "./app/assets/images/squash_plan2.jpg",
+        "schemaUrl": ""
+    },
+    {
+        "centerId": 3,
+        "centerName": "Squash4You",
+        "centerAddress": "Malmö",
+        "centerAge": "2017",
+        "description": "4 squash bannor",
+        "imageUrl": "./app/assets/images/squash_plan3.jpg",
+        "schemaUrl": ""
+    },
+]
